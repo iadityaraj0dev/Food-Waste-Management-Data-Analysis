@@ -91,7 +91,6 @@ food-waste-management-analysis/
 │
 ├── README.md
 ├── Data_cleaning.py
-├── cleantest.py
 ├── db.py
 ├── query.py
 ├── data/
